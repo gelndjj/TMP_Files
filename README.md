@@ -35,8 +35,8 @@ This script written in python creates directories and files with ramdom names in
 I don't know... if for some reasons you want to fill up space on your computer with random files, this script is for you. 
 
 ### SCREENSHOTS
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/pwd_gen.png)
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/pwd_dec.png)
+![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screenshot_win.png)
+![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screenshot_mac.png)
 
 ### HOW IT WORKS
 * Just double click on TMP_files, it will create a folder named **FLoooOOOooOooOd** in the same folder you execute the program. Inside **FLoooOOOooOooOd** will be some random directory and files.
