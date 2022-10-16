@@ -44,7 +44,8 @@ I don't know... if for some reasons you want to fill up space on your computer w
 ![Screenshot](https://github.com/gelndjj/TMP_Files/blob/main/img/screenshot_mac.png)
 
 ### HOW IT WORKS
-* Just double click on **TMP_files**, it will create a folder named **FLoooOOOooOooOd** in the same folder you execute the program. Inside **FLoooOOOooOooOd** will be some random directory and files.
+* Just double click on **TMP_files**, it will create a folder named **FLoooOOOooOooOd** in the same folder you execute the program.
+Inside **FLoooOOOooOooOd** will be some random directories and files.
 
 ### REQUIREMENTS
 Running TMP_files requires :
