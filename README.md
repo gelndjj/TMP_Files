@@ -1,7 +1,7 @@
 # TMP_Files
 
 ## TMP_Files
-_Ramdom Files Generator_
+_Random Files Generator_
 ```
                                                                    
              tttt                                                      
@@ -29,7 +29,7 @@ _Ramdom Files Generator_
 ```
 
 ### SUMMARY
-This script written in python creates directories and files with ramdom names in a folder. 
+This script written in python creates directories and files with random names in a folder. 
 
 ### WHAT IS THIS FOR ?
 I don't know... if for some reasons you want to fill up space on your computer with random files, this script is for you. 
