@@ -1,6 +1,6 @@
 # TMP_Files
 
-_Random Files Generator_
+_A random files generator working on Mac OS and Windows_
 ```                                                                                                                                                      
            tttt                                                          !!! 
         ttt:::t                                                         !!:!!
